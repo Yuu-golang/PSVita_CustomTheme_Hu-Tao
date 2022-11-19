@@ -1,6 +1,6 @@
 # PSVita_CustomTheme_Hu-Tao
 他の方が作ったテーマや画像を使用しているため怒られたら消します
-[Image Source](https://danbooru.donmai.us/posts/4672308)
+Using [this img](https://danbooru.donmai.us/posts/4672308)
 ## Preview
 Select Theme
 ![選択画面](https://github.com/Yuu-golang/PSVita_CustomTheme_Hu-Tao/blob/main/Previews/2022-11-19-215038-561665.png)
