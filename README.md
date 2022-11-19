@@ -1,6 +1,7 @@
 # PSVita_CustomTheme_Hu-Tao
 他の方が作ったテーマや画像を使用しているため怒られたら消します  
-[Img Source](https://danbooru.donmai.us/posts/4672308)
+[Img Source1](https://danbooru.donmai.us/posts/4672308)
+[Img Source2](https://www.pixiv.net/artworks/100892401)
 
 ## Usage
 1. Install Custom Theme Manager([official website](http://redsquirrel87.altervista.org/doku.php/custom-themes-manager)).
