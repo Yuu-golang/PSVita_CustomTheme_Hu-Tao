@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<theme format-ver="01.00" package="0">
+	<HomeProperty>
+		<m_bgParam>
+			<BackgroundParam> <!-- 1 -->
+				<m_imageFilePath>br.png</m_imageFilePath> <!-- 8bit -->
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 2 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 3 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 4 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 5 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 6 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 7 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 8 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 9 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+			<BackgroundParam> <!-- 10 -->
+				<m_imageFilePath>br.png</m_imageFilePath>
+				<m_thumbnailFilePath>tbr.png</m_thumbnailFilePath>
+				<m_waveType>24</m_waveType>
+				<m_fontColor>00D1FF</m_fontColor>
+				<m_fontShadow>1</m_fontShadow>
+			</BackgroundParam>
+		</m_bgParam>
+		<m_bgmFilePath>BGM.at9</m_bgmFilePath> <!-- 144bps 41KHz PCM16 / "at9tool -e -br 144 -wholeloop audio.wav audio.at9" -->
+		<m_browser> <m_iconFilePath>icon_web.png</m_iconFilePath> </m_browser>
+		<m_calendar> <m_iconFilePath>icon_calendar.png</m_iconFilePath> </m_calendar>
+		<m_camera> <m_iconFilePath>icon_photos.png</m_iconFilePath> </m_camera>
+		<m_email> <m_iconFilePath>icon_email.png</m_iconFilePath> </m_email>
+		<m_friend> <m_iconFilePath>icon_friend.png</m_iconFilePath> </m_friend>
+		<m_hostCollabo> <m_iconFilePath>icon_cma.png</m_iconFilePath> </m_hostCollabo>
+		<m_message> <m_iconFilePath>icon_message.png</m_iconFilePath> </m_message>
+		<m_music> <m_iconFilePath>icon_music.png</m_iconFilePath> </m_music>
+		<m_near> <m_iconFilePath>icon_near.png</m_iconFilePath> </m_near>
+		<m_parental> <m_iconFilePath>icon_parental.png</m_iconFilePath> </m_parental>
+		<m_party> <m_iconFilePath>icon_party.png</m_iconFilePath> </m_party>
+		<m_power> <m_iconFilePath>icon_power.png</m_iconFilePath> </m_power>
+		<m_ps3Link> <m_iconFilePath>icon_ps3link.png</m_iconFilePath> </m_ps3Link>
+		<m_ps4Link> <m_iconFilePath>icon_ps4link.png</m_iconFilePath> </m_ps4Link>
+		<m_settings> <m_iconFilePath>icon_settings.png</m_iconFilePath> </m_settings>
+		<m_trophy> <m_iconFilePath>icon_trophy.png</m_iconFilePath> </m_trophy>
+		<m_video> <m_iconFilePath>icon_video.png</m_iconFilePath> </m_video>
+		<m_basePageFilePath>screen_other.png</m_basePageFilePath>
+		<m_curPageFilePath>screen_current.png</m_curPageFilePath>
+	</HomeProperty>
+	<InfomationBarProperty>
+		<m_barColor>FFf8aec0</m_barColor>
+		<m_indicatorColor>FFfdfdfd</m_indicatorColor>
+		<m_noticeFontColor>FFfdfdfd</m_noticeFontColor> <!-- ? -->
+		<m_noticeGlowColor>00D1FF</m_noticeGlowColor> <!-- ? -->
+		<m_noNoticeFilePath>notice.png</m_noNoticeFilePath> <!-- 120x110 -->
+		<m_newNoticeFilePath>notice.png</m_newNoticeFilePath> <!-- 120x110-->
+	</InfomationBarProperty>
+	<InfomationProperty>
+		<m_provider>
+			<m_default>CTRPlugin</m_default>
+			<m_param>
+				<m_da>CTRPlugin</m_da>
+				<m_de>CTRPlugin</m_de>
+				<m_es>CTRPlugin</m_es>
+				<m_fi>CTRPlugin</m_fi>
+				<m_fr>CTRPlugin</m_fr>
+				<m_it>CTRPlugin</m_it>
+				<m_nl>CTRPlugin</m_nl>
+				<m_no>CTRPlugin</m_no>
+				<m_pl>CTRPlugin</m_pl>
+				<m_pt>CTRPlugin</m_pt>
+				<m_ru>CTRPlugin</m_ru>
+				<m_sv>CTRPlugin</m_sv>
+				<m_ja>CTRPlugin</m_ja>
+			</m_param>
+		</m_provider>
+		<m_contentVer>01.00</m_contentVer> <!-- must be xx.xx format or else PSV XML parser will fail -->
+		<m_title>
+			<m_default>Hu-Tao</m_default>
+			<m_param>
+				<m_da>Hu-Tao</m_da>
+				<m_de>Hu-Tao</m_de>
+				<m_es>Hu-Tao</m_es>
+				<m_fi>Hu-Tao</m_fi>
+				<m_fr>Hu-Tao</m_fr>
+				<m_it>Hu-Tao</m_it>
+				<m_nl>Hu-Tao</m_nl>
+				<m_no>Hu-Tao</m_no>
+				<m_pl>Hu-Tao</m_pl>
+				<m_pt>Hu-Tao</m_pt>
+				<m_ru>Hu-Tao</m_ru>
+				<m_sv>Hu-Tao</m_sv>
+				<m_ja>Hu-Tao</m_ja>
+			</m_param>
+		</m_title>
+		<m_homePreviewFilePath>preview_livearea.png</m_homePreviewFilePath>
+		<m_startPreviewFilePath>preview_lockscreen.png</m_startPreviewFilePath>
+		<m_packageImageFilePath>preview_thumbnail.png</m_packageImageFilePath>
+	</InfomationProperty>
+	<StartScreenProperty>
+		<m_dateColor>00D1FF</m_dateColor>
+		<m_dateLayout>0</m_dateLayout>
+		<m_filePath>lockpaper.png</m_filePath>
+		<m_notifyBgColor>64ffffff</m_notifyBgColor>
+		<m_notifyBorderColor>20ffffff</m_notifyBorderColor>
+		<m_notifyFontColor>00D1FF</m_notifyFontColor>
+	</StartScreenProperty>
+</theme>
