@@ -10,7 +10,7 @@ LiveArea
 
 ## Usage
 1. Install Custom Theme Manager([official website](http://redsquirrel87.altervista.org/doku.php/custom-themes-manager)).
-1. Unzip [Latest release](https://github.com/Yuu-golang/PSVita_CustomTheme_Hu-Tao/releases/download/1.0/Hu-tao_theme.zip) and Move  to ``\ux0:\customtheme\``.
+1. Unzip [Latest release](https://github.com/Yuu-golang/PSVita_CustomTheme_Hu-Tao/releases/download/1.0/Hu-tao_theme.zip) and Move unzipped folder to ``\ux0:\customtheme\``.
 1. Open Custom Theme Manager.
 1. Select ``Install a Custom Theme from the local folder`` and Install this theme.
 1. Back to main menu and select ``Apply an installed theme``
