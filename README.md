@@ -16,4 +16,4 @@ LiveArea
 1. Select ``Install a Custom Theme from the local folder`` and Install this theme.
 1. Back to main menu and select ``Apply an installed theme``
 1. Select this theme.
-1. Conglaturation!! u can use this theme.
+1. Congratulation!! u can use this theme.
